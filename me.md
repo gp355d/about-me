@@ -15,7 +15,11 @@
 * 運用 AJAX 撈取 JSON 並處理資料
 ### Git/Github
 * 基礎 Git/GitHub 指令
-
+## 後端技能
+### PHP
+* 了解php基礎語法
+* 了解mysql基礎語法
+* 使用laravel框架建立網站
 
 ---
 ## 作品
