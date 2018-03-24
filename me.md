@@ -26,8 +26,8 @@
 * [六角產品](https://gp355d.github.io/web/web.html "Title")
   - JQuery 滑動效果、幻燈片效果
 * [高雄市旅遊網](https://gp355d.github.io/travel-web/ "Title")
- - 透過ajax技術串接高雄市政府的開放資料API
- - 配合js呈現資料切換效果
+  - 透過ajax技術串接高雄市政府的開放資料API
+  - 配合js呈現資料切換效果
   
 ---
 ## 關於我
