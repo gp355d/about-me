@@ -28,9 +28,9 @@
 * [高雄市旅遊網](https://gp355d.github.io/travel-web/ "Title")
   - 透過ajax技術串接高雄市政府的開放資料API
   - 配合js呈現資料切換效果
-* [RWD頁面(參考js30網頁)-flex排版](https://codepen.io/leo365/pen/vzQgZa "Title")
+* [RWD頁面(參考js30網頁](https://codepen.io/leo365/pen/vzQgZa "Title")
   -使用flex技術排版
-* [RWD頁面(參考js30網頁)-float排版](https://codepen.io/leo365/pen/BOGpRE "Title")
+* [RWD頁面(參考js30網頁)](https://codepen.io/leo365/pen/BOGpRE "Title")
   -使用float技術排版
 ---
 ## 關於我
