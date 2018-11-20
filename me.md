@@ -32,7 +32,7 @@
   -使用flex技術排版
 * [RWD頁面(參考js30網頁)](https://codepen.io/leo365/pen/BOGpRE "Title")
   -使用float技術排版
-* [tainan旅遊景點查詢](https://gp355d.github.io/tainan-travel/practice.html "Title")
+* [tainan旅遊景點查詢](https://gp355d.github.io/pt/practice.html "Title")
   -套用bootstrap框架
 ---
 ## 關於我
