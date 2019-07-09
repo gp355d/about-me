@@ -33,9 +33,9 @@
 * [六角西餐廳](https://gp355d.github.io/restaurant-rwd/ "Title")
   -使用原生語法製作響應式網站，不套用框架
 
-* [模仿刻版javascript 30天網站]
-  -使用[flex技術排版](https://codepen.io/leo365/pen/vzQgZa "Title")
-  -使用[float技術排版](https://codepen.io/leo365/pen/BOGpRE "Title")
+* 模仿刻版javascript 30天網站
+ -使用[flex技術排版](https://codepen.io/leo365/pen/vzQgZa "Title")
+ -使用[float技術排版](https://codepen.io/leo365/pen/BOGpRE "Title")
 
 * [tainan旅遊景點查詢](https://gp355d.github.io/tainan/practice.html "Title")
   -套用bootstrap4框架
