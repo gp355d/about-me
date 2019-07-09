@@ -25,15 +25,21 @@
 ## 作品
 * [六角產品](https://gp355d.github.io/web/web.html "Title")
   - JQuery 滑動效果、幻燈片效果
+
 * [高雄市旅遊網](https://gp355d.github.io/travel-web/ "Title")
   - 透過ajax技術串接高雄市政府的開放資料API
   - 配合js呈現資料切換效果
-* [RWD頁面(參考js30網頁)](https://codepen.io/leo365/pen/vzQgZa "Title")
-  -使用flex技術排版
-* [RWD頁面(參考js30網頁)](https://codepen.io/leo365/pen/BOGpRE "Title")
-  -使用float技術排版
+  
+* [六角西餐廳](https://gp355d.github.io/restaurant-rwd/ "Title")
+  -使用原生語法製作響應式網站，不套用框架
+
+* [模仿刻版javascript 30天網站]
+  -使用[flex技術排版](https://codepen.io/leo365/pen/vzQgZa "Title")
+  -使用[float技術排版](https://codepen.io/leo365/pen/BOGpRE "Title")
+
 * [tainan旅遊景點查詢](https://gp355d.github.io/tainan/practice.html "Title")
-  -套用bootstrap框架
+  -套用bootstrap4框架
+  -使用flex技術排版
 ---
 ## 關於我
   * 學習上的精神為「不懂不羞恥，不學才內疚」
