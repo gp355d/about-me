@@ -1,8 +1,8 @@
 # 李啟嘉 ( LI,CI-JIA )
 
-*   Education： 屏東科技大學/資訊管理系
-*   Location： Tainan
-*   E-Mail： chichali374@gmail.com
+*  Education： 屏東科技大學/資訊管理系
+*  Location： Tainan
+*  E-Mail： chichali374@gmail.com
 
 
 ---
